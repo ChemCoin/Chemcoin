@@ -1,0 +1,9 @@
+Building Chemcoin
+
+See doc/readme-qt.rst for instructions on building Chemcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of chemcoin.
+
+See doc/build-*.txt for instructions on building chemcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of chemcoin.
